@@ -1,0 +1,126 @@
+Rock N' Roll Racing
+Copyright (C) 1993-2014 Blizzard Entertainment
+For EULA see file "Rock N Roll Racing EULA txt 20140331.txt"
+============================================================
+
+This release is a lite version Rock N' Roll Racing that features three playable tracks from the original Rock N' Roll Racing for Super Nintendo.
+
+The History of Rock N' Roll (Racing)
+------------------------------------
+The first automobile race was held in France in 1894, seven years after the first car was made by Herr Daimler and Herr Benz of Germany. They  made the first combustion engine used in cars of the late 19th, 20th and early 21st centuries (one of the Daimler's daughters was named Mercedes; together the engineers made Mercedes Benz, still a mark of quality in the 30th century.) In these automobile races, men wanted to test their wits, skill and machines against each other where only the best survived. Old nations like Germany, England, Frances and the United States began holding regular races to celebrate the automobile, the new standard for transportation.
+
+When mankind discovered intelligent life on Bogmire in the year 2833 it started a craze like nothing ever seen before. The Saurions on Bogmire started racing with all sorts of souped up cars to classic Rock N' Roll music from the planet Earth. The idea caught on, and the Rock N' Roll Racing (tm) Commission was formed. They are responsible for the rules, regulations and fun of Rock N' Roll Racing (tm).
+
+The first race was held in 2911, one millennium after the Indianapolis 500 began, so they named the grand Prize the Indianapolis Super Cup.
+
+Flip Johnson from Terra won the first complete rock N' Roll Race with his brand of nitrous oxide called Lightning Nitro. It was an upset since on the three-race tour, Dangbar of Bogmire was clearly in the lead. Dangbar threatened to eat Flip if he competed again, so Flip opened a school of driving on Terra, his home planet, and retired from racing.
+
+Now of course, Rock N' Roll Racing (tm) is the most watched sport in the universe. An estimated 7.8 billion people from 17 planets tune in regularly to see the modern age demolition derby.
+
+
+Keyboard Controls
+-----------------
+Alt-Enter
+TOGGLE FULLSCREEN AND WINDOW MODE
+
+Alt-F4
+QUIT APPLICATION
+
+Arrow Keys
+Steers your car. Left and right will turn your race car as though you were in the driver's seat. Down will brake, but who ever brakes in a Rock N' Roll race?
+
+D,C
+These will make sharp left or right turns when you steer with the Control Pad
+
+Z
+This is your gas pedal during the race (you'll probably want to press it all the time) and this is your SELECTION button in the other screens.
+
+S
+This will use your POWER CHARGES.
+
+A
+Fires your FORWARD WEAPON.
+
+X
+Fires your REAR WEAPON.
+
+Return/Enter
+During a race you can give up by using this button. Don't worry if you press it on accident, it will ask you to confirm YES or NO.
+
+Right Shift
+Does nothing.
+
+
+CREDITS
+-------
+
+GAME DESIGN
+Blizzard Entertainment
+Alan Pavlish
+
+PRODUCERS
+Allen Adham
+Alan Pavlish
+
+EXECUTIVE PRODUCER
+Brian Fargo
+
+ORIGINAL PROGRAMMING
+Bob Fitch
+Pat Wyatt
+Allen Adham
+
+ARTWORK
+Samwise Didier
+Ron Millar
+Joeyray Hall
+
+ADDITIONAL ARTWORK
+Stu Rose
+Clyde Matsumoto
+Paul Barton
+Anthony Gomez
+
+AUDIO PROGRAMMING
+Software Creations
+
+QUALITY ASSURANCE DIRECTOR
+Kerry Garrison
+
+ASSISTANT QA DIRECTOR
+Rodney Relosa
+
+LEAD TESTERS
+Dave Healy
+Dean Schulte
+Chris Tremmel
+
+ADDITIONAL TESTING
+Frank Alberry
+Michael Packard
+Brian Fargo
+Matt Findley
+
+THANKS TO
+Todd Camasta
+Bill Heineman
+Allen Anderson
+
+VOICE
+Larry Huffman
+
+PC CONVERSION
+James Touton
+
+PC MUSIC
+Jason Hayes
+
+PC CONVERSION QA
+Danny H. Nguyen
+Jason Kwan
+Matthew Grubb
+
+SPEICIAL THANKS TO
+The ZSNES team 
+
+
